@@ -1,5 +1,5 @@
 <h2> Hi, I'm U Náay Loeza! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/5pWlegogMF59EDvJyD/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/l1gbaJ2DMZPN7U6tur/giphy.gif" width="230">
 <p><em>Software Enginner at <a href="https://www.uv.mx">Universidad Veracruzana</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 </em></p>
 
