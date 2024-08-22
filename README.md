@@ -3,8 +3,8 @@
 <p><em>Software Enginner at <a href="https://www.uv.mx">Universidad Veracruzana</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 </em></p>
 
-[![Twitter: U Náay Loeza](https://img.shields.io/twitter/follow/unaay20?style=social)](https://www.instagram.com/unaay20/)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-unaayloeza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/u-náay-loeza-9831b42aa/)
+//[![Twitter: U Náay Loeza](https://img.shields.io/twitter/follow/unaay20?style=social)](https://www.instagram.com/unaay20/)
+//[![Linkedin: thaianebraga](https://img.shields.io/badge/-unaayloeza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/u-náay-loeza-9831b42aa/)
 
 
 
@@ -12,7 +12,7 @@
 
 ```javascript
 const U Náay = {
-  code: [C++, Java, C, Python],
+  code: [C++, Java, C, Python, C#],
   tools: [React],
   challenge: "I am starting to learn web development"
 }
