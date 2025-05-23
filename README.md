@@ -15,6 +15,9 @@ const U Náay = {
   challenge: "I am starting to learn web development"
 }
 ```
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=unaay20&theme=dark&hide_border=true"/>
+</p>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
