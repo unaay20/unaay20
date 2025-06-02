@@ -11,7 +11,7 @@
 ```javascript
 const U Náay = {
   code: [C++, Java, C, Python, C#, Kotlin],
-  tools: [Git, Postman, FXAML, WCF, WPF, Entity Framework, MySQL, SQL Server, MongoDB, Docker, Jenkins, Node.js, React],
+  tools: [Git, Postman, FXAML, WCF, WPF, Entity Framework, MySQL, SQL Server, MongoDB, Docker, Jenkins, Node.js, Orange, Spyder, React],
   challenge: "I am starting to learn web development"
 }
 ```
