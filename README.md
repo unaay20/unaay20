@@ -1,6 +1,6 @@
 <h2> Hi, I'm U Náay Loeza! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/l1gbaJ2DMZPN7U6tur/giphy.gif" width="230">
-<p><em>Software Engineer at <a href="https://www.uv.mx">Universidad Veracruzana</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
+<p><em>Software Engineer Student at <a href="https://www.uv.mx">Universidad Veracruzana</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 </em></p>
 
 
@@ -11,7 +11,7 @@
 ```javascript
 const U Náay = {
   code: [C++, Java, C, Python, C#, Kotlin],
-  tools: [Git, Postman, FXAML, WCF, WPF, Entity Framework, MySQL, SQL Server, MongoDB, Docker, Jenkins, Node.js, Orange, Spyder, React],
+  tools: [Git, Postman, FXAML, WCF, WPF, Entity Framework, MySQL, SQL Server, MongoDB, Docker, Jenkins, Node.js, Orange, Spyder, Android Studio, Visual Studio, Visual Studio Code, React],
   challenge: "I am starting to learn web development"
 }
 ```
