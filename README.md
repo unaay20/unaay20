@@ -12,15 +12,14 @@ const U Náay = {
   challenge: "I am starting to learn web development"
 }
 ```
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=unaay20&theme=dark&hide_border=true"/>
-</p>
 
 <a href="https://www.instagram.com/unaay20.json/"><img src="https://img.shields.io/badge/instagram%20@unaay20.json-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=unaay20&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=unaay20&theme=neon-palenight&border_radius=8.2&mode=weekly" alt="GitHub Streak" /></a>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unaay20&theme=radical&title_color=8E2DE2&text_color=fff)
-
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=unaay20&theme=react&show_icons=true&hide_border=true&count_private=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unaay20&theme=react&show_icons=true&hide_border=true&layout=compact">
+</p>
