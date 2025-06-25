@@ -12,9 +12,10 @@ const U Náay = {
   challenge: "I am starting to learn web development"
 }
 ```
+<a href="https://www.youtube.com/@unaay20"><img src="https://img.shields.io/badge/YouTube-U%20N%C3%A1ay%20Loeza-%23FF0000?style=for-the-badge&logo=youtube&logoColor=%23FF0000&logoSize=auto&color=%23FF0000"/></a>
 
 <a href="https://www.instagram.com/unaay20.json/"><img src="https://img.shields.io/badge/instagram%20@unaay20.json-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://www.youtube.com/@unaay20"><img src="https://img.shields.io/badge/YouTube-U%20N%C3%A1ay%20Loeza-%23FF0000?style=for-the-badge&logo=youtube&logoColor=%23FF0000&logoSize=auto&color=%23FF0000"/></a>
+
 
 
 <p align="center">
